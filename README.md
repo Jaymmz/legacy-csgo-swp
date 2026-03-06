@@ -1,6 +1,5 @@
 # Legacy CS:GO SWP Menu
 
-**Author:** Jaymmz  
 **File:** `legacy_swp_menu.sp`  
 **Game:** CS:GO (legacy builds, GC/loadout unavailable)  
 
