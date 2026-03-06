@@ -21,8 +21,8 @@ Players can use a simple chat command to choose which weapon they want for each 
   - `Desert Eagle` ↔ `R8 Revolver`
 - **CT rifle (Slot 2)**
   - `M4A4` ↔ `M4A1-S`
-- **Optional SMG**
-  - `MP7` ↔ `MP5-SD` (only if `mp5sd` exists on this build)
+- **SMG**
+  - `MP7` ↔ `MP5-SD`
 
 Behavior details:
 
